@@ -1,4 +1,4 @@
 category: X11
 requires: cygwin libX11_6 libXi6
-sdesc: "Xorg Xinput device mode setter"
-ldesc: "Xorg Xinput device mode setter"
+sdesc: "X.Org Xinput device mode setter"
+ldesc: "X.Org Xinput device mode setter"

@@ -1,6 +1,6 @@
 xsetmode
 ------------------------------------------
-Xorg Xinput device mode setter
+X.Org Xinput device mode setter
 
 Runtime requirements:
   cygwin-1.5.20-1
